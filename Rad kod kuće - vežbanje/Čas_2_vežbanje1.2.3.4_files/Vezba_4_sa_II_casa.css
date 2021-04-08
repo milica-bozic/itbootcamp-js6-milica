@@ -1,0 +1,31 @@
+#naslov {
+    color: aquamarine;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+#slika {
+    border-style: double;
+    border-color: chartreuse;
+}
+
+.isti {
+    color: chartreuse;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#drugaciji {
+    color: crimson;
+
+}
+
+#linkic {
+    color: red;
+}
+
+#linkic:hover {
+    color: green;
+}

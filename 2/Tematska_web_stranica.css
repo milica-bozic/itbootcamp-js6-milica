@@ -1,0 +1,30 @@
+#naslov {
+    color: hotpink;
+}
+
+body {
+    background-color: indigo;
+}
+
+#slika {
+    border-style: dotted;
+    border-color: khaki;
+}
+
+.isti {
+    color: blueviolet;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#drugaciji {
+    color: coral;
+}
+
+#link {
+    color: red;
+}
+
+#link:hover {
+    color: green;
+}
